@@ -3,6 +3,12 @@
 /* styles.css */
 
 /*Background video*/
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 23px;
+    
+}
 .background-container {
     position: relative; /* Needed for absolutely positioned content within */
     width: 100%;
